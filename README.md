@@ -15,7 +15,7 @@ This is a sina weibo spider built by scrapy
 ## 使用本项目
 Python版本:Python3.6及以上
 ```bash
-git clone https://github.com/SimpleBrightMan/WeiboSpider.git
+git clone https://github.com/xqhjay/WeiboSpider.git
 # 首先获取cookie，并存入数据库中
 python cookies.py
 # 然后运行爬虫
